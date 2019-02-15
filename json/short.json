@@ -1,0 +1,6 @@
+[
+	"<lor> [tag1, tag 2, tag3] {} content",
+	"<lor> [tag] content",
+	"<lor1, lor2> {personage 1 age, personage 2 age} content",
+	"content"
+]
